@@ -1,0 +1,36 @@
+[DEBUG] 2025-07-04 15:52:26.898 [main] TestNG - suiteXmlPath: "C:\Users\HP\eclipse-workspace\AssignmentOnEntrata\testng.xml"
+[INFO ] 2025-07-04 15:52:27.841 [main] Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\AssignmentOnEntrata\testng.xml
+
+[INFO ] 2025-07-04 15:52:29.046 [main] BaseClass - Reading browser properties....!
+[INFO ] 2025-07-04 15:52:33.125 [main] BaseClass - Browser Launched Successfully....!
+[INFO ] 2025-07-04 15:52:33.239 [main] BaseClass - Launching Application url....!
+[INFO ] 2025-07-04 15:53:27.200 [main] BaseClass - Navigating to BillPay Screen....!
+[INFO ] 2025-07-04 15:53:45.012 [main] BaseClass - Clicked on BillPay....!
+[INFO ] 2025-07-04 15:53:45.443 [main] BaseClass - Clicked on Video Play Button....!
+[INFO ] 2025-07-04 15:53:50.881 [main] BaseClass - Navigated on Bill Pay | Entrata....!
+[INFO ] 2025-07-04 15:53:50.930 [main] BaseClass - Launching Application url....!
+[INFO ] 2025-07-04 15:54:11.479 [main] BaseClass - Navigating to Resident SignIn Screen....!
+[INFO ] 2025-07-04 15:54:24.785 [main] BaseClass - Clicked on Sign In....!
+[INFO ] 2025-07-04 15:54:25.172 [main] BaseClass - Navigated on Entrata Sign In....!
+[INFO ] 2025-07-04 15:54:29.097 [main] BaseClass - Clicked on Resident Login....!
+[INFO ] 2025-07-04 15:54:29.137 [main] BaseClass - Navigated on ResidentPortal App....!
+[INFO ] 2025-07-04 15:54:30.686 [main] BaseClass - Entered Email from COnfig file....!
+[INFO ] 2025-07-04 15:54:31.069 [main] BaseClass - Entered Password from Config file to Sign In....!
+[INFO ] 2025-07-04 15:54:32.012 [main] BaseClass - Launching Application url....!
+[DEBUG] 2025-07-04 15:54:44.099 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-07-04 15:54:44.105 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-07-04 15:54:44.109 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2025-07-04 15:54:45.563 [main] BaseClass - Navigating to Demo Form Screen....!
+[INFO ] 2025-07-04 15:54:53.197 [main] BaseClass - Clicked on Watch Demo....!
+[INFO ] 2025-07-04 15:54:53.215 [main] BaseClass - Reading Form data using excel file....!
+[INFO ] 2025-07-04 15:54:53.534 [main] BaseClass - Entered First Name....!
+[INFO ] 2025-07-04 15:54:53.763 [main] BaseClass - Entered Last Name....!
+[INFO ] 2025-07-04 15:54:54.041 [main] BaseClass - Entered Email Id....!
+[INFO ] 2025-07-04 15:54:54.252 [main] BaseClass - Entered Company Name....!
+[INFO ] 2025-07-04 15:54:54.499 [main] BaseClass - Entered Phone Number....!
+[INFO ] 2025-07-04 15:54:54.805 [main] BaseClass - Managed Units selected from the list....!
+[INFO ] 2025-07-04 15:54:55.065 [main] BaseClass - Entered Job Title....!
+[INFO ] 2025-07-04 15:54:55.309 [main] BaseClass - Resident option is selected from the list....!
+[INFO ] 2025-07-04 15:54:55.746 [main] BaseClass - Closing the browser....!
+[INFO ] 2025-07-04 15:54:56.881 [main] BaseClass - Browser Closed Successfully....!
